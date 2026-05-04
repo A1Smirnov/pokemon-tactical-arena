@@ -7,20 +7,21 @@ It uses PokeAPI for character data, localStorage for save/load, and a simple are
 
 ### Choose a Pokémon
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <img src="screenshots/Screenshot_1.jpg" width="260"/>
   <img src="screenshots/Screenshot_3.jpg" width="260"/>
 </div>
 
 ### Select and Fight!
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <img src="screenshots/Screenshot_6.jpg" width="260"/>
   <img src="screenshots/Screenshot_7.jpg" width="260"/>
 </div>
 
-### Victory
-<img src="screenshots/Screenshot_8.jpg" alt="Victory" width="260" />
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/Screenshot_8.jpg" alt="Victory" width="260" />
+</div>
 
 ## Features
 
