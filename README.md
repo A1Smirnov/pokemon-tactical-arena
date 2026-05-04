@@ -1,6 +1,6 @@
 # Pokémon Tactical Arena
 
-A small turn-based Pokémon battle game built as a React + Redux Toolkit practice project.  
+A small turn-based Pokémon battle game (practice project / test assignment) built as a React + Redux Toolkit practice project.  
 It uses PokeAPI for character data, localStorage for save/load, and a simple arena combat loop.
 
 ## Screenshots
@@ -52,6 +52,8 @@ npm start
 Then open the app in your browser.
 
 ## Notes
-This project was created as a practice assignment
-The goal was to explore React state management, API integration, and game flow
-It is a learning project, not a production game
+
+- This project was created as a practice assignment.
+- The goal was to explore React state management, API integration, and game flow.
+- It is a learning project, not a production game.
+- `npm run build` generates the static production version in the `build/` folder.
